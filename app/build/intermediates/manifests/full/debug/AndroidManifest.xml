@@ -75,7 +75,7 @@
 
         <meta-data
             android:name="android.support.VERSION"
-            android:value="26.0.2" />
+            android:value="26.1.0" />
         <!--
              Receives GooglePlay execution requests and forwards them to the
              appropriate internal service.
@@ -88,6 +88,10 @@
                 <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
             </intent-filter>
         </service>
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

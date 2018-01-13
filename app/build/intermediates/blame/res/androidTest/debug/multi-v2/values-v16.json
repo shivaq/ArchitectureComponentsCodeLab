@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Yasuaki\\Desktop\\architectureComponentsSunshineStartingCode\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yasuaki\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\d8af11120da47a526b7c37c076ba0712\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Yasuaki\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b092c34ae658605deae1254915ea1b6\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Yasuaki\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\dd0e5827640478ddbb55a15bab5ce060\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Yasuaki\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f636dd0f9b47514d1101872ab1a862c6\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
