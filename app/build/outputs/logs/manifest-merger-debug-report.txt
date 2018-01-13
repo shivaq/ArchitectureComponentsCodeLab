@@ -11,20 +11,21 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Yasuaki\.gradle\c
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b6a6b6beb107ac4c4fcef25d85cd756a\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da4c9e3a8846e7fc45fe71cc62f795be\AndroidManifest.xml:2:1-11:12
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:17:1-42:12
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:2:1-10:12
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a76a46d72f7cbc36db4e126f6ad786c\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d8345b6301ddc38879a67ec5bec6e30b\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6df5134ad97689e71fc77112d8c2bed3\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a76a46d72f7cbc36db4e126f6ad786c\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\cd0bcb219129fed43d31a0493b56721d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b092c34ae658605deae1254915ea1b6\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\fa5071a3c073afa3dec4eaadb5641d52\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:2:1-10:12
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1860265e3c480c827089f229ce2924dc\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\1f42afea97e99e6fe5a3b20392bcc2e7\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\785714ae1b8a0db46e00d0a8981369a5\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1860265e3c480c827089f229ce2924dc\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:17:1-30:12
 INJECTED from C:\Users\Yasuaki\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
 INJECTED from C:\Users\Yasuaki\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
 INJECTED from C:\Users\Yasuaki\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
@@ -58,14 +59,14 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ya
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da4c9e3a8846e7fc45fe71cc62f795be\AndroidManifest.xml:9:5-20
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:26:5-40:19
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:26:5-40:19
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:8:5-20
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:8:5-20
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:24:5-30:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d8345b6301ddc38879a67ec5bec6e30b\AndroidManifest.xml:25:5-29:19
@@ -76,8 +77,8 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Yasuaki\.gr
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\cd0bcb219129fed43d31a0493b56721d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b092c34ae658605deae1254915ea1b6\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b092c34ae658605deae1254915ea1b6\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:24:5-28:19
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:8:5-20
 	android:supportsRtl
 		ADDED from C:\Users\Yasuaki\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:28:9-35
 	android:label
@@ -160,34 +161,36 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ya
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da4c9e3a8846e7fc45fe71cc62f795be\AndroidManifest.xml:5:5-7:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:22:5-24:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:22:5-24:41
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:6:5-43
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:6:5-43
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a76a46d72f7cbc36db4e126f6ad786c\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a76a46d72f7cbc36db4e126f6ad786c\AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:21:5-23:54
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d8345b6301ddc38879a67ec5bec6e30b\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d8345b6301ddc38879a67ec5bec6e30b\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6df5134ad97689e71fc77112d8c2bed3\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6df5134ad97689e71fc77112d8c2bed3\AndroidManifest.xml:21:5-23:63
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a76a46d72f7cbc36db4e126f6ad786c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a76a46d72f7cbc36db4e126f6ad786c\AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\cd0bcb219129fed43d31a0493b56721d\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\cd0bcb219129fed43d31a0493b56721d\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b092c34ae658605deae1254915ea1b6\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b092c34ae658605deae1254915ea1b6\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\fa5071a3c073afa3dec4eaadb5641d52\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\fa5071a3c073afa3dec4eaadb5641d52\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\809a4ba1f6993dccb525e1451cb20cb9\AndroidManifest.xml:6:5-43
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1860265e3c480c827089f229ce2924dc\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1860265e3c480c827089f229ce2924dc\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\1f42afea97e99e6fe5a3b20392bcc2e7\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\1f42afea97e99e6fe5a3b20392bcc2e7\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\785714ae1b8a0db46e00d0a8981369a5\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\785714ae1b8a0db46e00d0a8981369a5\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1860265e3c480c827089f229ce2924dc\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1860265e3c480c827089f229ce2924dc\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\Yasuaki\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Yasuaki\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
@@ -206,12 +209,12 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Yasuaki\.gradle\c
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f636dd0f9b47514d1101872ab1a862c6\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b6a6b6beb107ac4c4fcef25d85cd756a\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b6a6b6beb107ac4c4fcef25d85cd756a\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\75ca2d202f40cd81e0d14a50f35ec9a4\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bed85fd5d19c357f65f5d274d7d22775\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4e1acd6462adc1ba3e28fda9a3c6e753\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a139d670c51f48e6fb526d60edeaa222\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d8345b6301ddc38879a67ec5bec6e30b\AndroidManifest.xml:26:9-28:38
@@ -240,9 +243,13 @@ action#com.google.android.gms.gcm.ACTION_TASK_READY
 ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:37:17-87
 	android:name
 		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\e320874e7edf663ac4d97f43e750f338\AndroidManifest.xml:37:25-84
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:27:13-44
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e9b1a629125436ef51f74f1593595d25\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Yasuaki\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\06b4652c654a81e6a85dc4a5027111b6\AndroidManifest.xml:26:13-83

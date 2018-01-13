@@ -33,6 +33,6 @@ public abstract class SunshineDatabase extends RoomDatabase {
   }
 
 
-  public abstract WeatherDao watherDao();
+  public abstract WeatherDao weatherDao();
 
 }

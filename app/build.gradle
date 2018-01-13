@@ -38,6 +38,9 @@ dependencies {
     // Architecture Component
     implementation "android.arch.persistence.room:runtime:$arcitecture_component_version"
     annotationProcessor "android.arch.persistence.room:compiler:$arcitecture_component_version"
+    compile "android.arch.lifecycle:runtime:$arcitecture_component_version"
+    compile "android.arch.lifecycle:extensions:$arcitecture_component_version"
+    annotationProcessor "android.arch.lifecycle:compiler:$arcitecture_component_version"
 
     // Logger
     compile "com.jakewharton.timber:timber:$timberVersion"
