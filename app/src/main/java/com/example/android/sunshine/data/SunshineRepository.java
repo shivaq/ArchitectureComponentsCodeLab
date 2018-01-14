@@ -19,11 +19,13 @@ package com.example.android.sunshine.data;
 import android.arch.lifecycle.LiveData;
 import android.util.Log;
 import com.example.android.sunshine.AppExecutors;
+import com.example.android.sunshine.data.database.ListWeatherEntry;
 import com.example.android.sunshine.data.database.WeatherDao;
 import com.example.android.sunshine.data.database.WeatherEntry;
 import com.example.android.sunshine.data.network.WeatherNetworkDataSource;
 import com.example.android.sunshine.utilities.SunshineDateUtils;
 import java.util.Date;
+import java.util.List;
 
 /**
  * Handles data operations in Sunshine. Acts as a mediator between {@link WeatherNetworkDataSource}
@@ -137,5 +139,11 @@ public class SunshineRepository {
   public LiveData<WeatherEntry> getWeatherByDate(Date date) {
     initializeData();
     return mWeatherDao.getWeatherByDate(date);
+  }
+
+  public LiveData<List<ListWeatherEntry>> getCurrentWeatherForecasts() {
+    initializeData();
+    Date today = SunshineDateUtils.getNormalizedUtcDateForToday();
+    return mWeatherDao.getCurrentWeatherForecasts(today);
   }
 }
