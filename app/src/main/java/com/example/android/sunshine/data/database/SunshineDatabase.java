@@ -16,7 +16,6 @@ public abstract class SunshineDatabase extends RoomDatabase {
 
   private static final String DATABASE_NAME = "weather";
 
-  // Singleton化 用
   private static final Object LOCK = new Object();
   private static volatile SunshineDatabase sInstance;
 
@@ -31,7 +30,6 @@ public abstract class SunshineDatabase extends RoomDatabase {
     }
     return sInstance;
   }
-
 
   public abstract WeatherDao weatherDao();
 
