@@ -22,6 +22,7 @@ import com.example.android.sunshine.AppExecutors;
 import com.example.android.sunshine.data.database.WeatherDao;
 import com.example.android.sunshine.data.database.WeatherEntry;
 import com.example.android.sunshine.data.network.WeatherNetworkDataSource;
+import com.example.android.sunshine.utilities.SunshineDateUtils;
 import java.util.Date;
 
 /**
@@ -58,6 +59,8 @@ public class SunshineRepository {
     networkData.observeForever(forecastsFromNetwork -> {
       // リモートデータを新たにフェッチしたら、diskIO スレッドで挿入実行
       mExecutors.diskIO().execute(() -> {
+        deleteOldData();
+        Log.d(LOG_TAG, "Old weather deleted");
         mWeatherDao.bulkInsert(forecastsFromNetwork);
         Log.d(LOG_TAG, "New values inserted");
       });
@@ -90,7 +93,12 @@ public class SunshineRepository {
       return;
     }
     mInitialized = true;
-    startFetchWeatherService();
+
+    mExecutors.diskIO().execute(() -> {
+      if (isFetchNeeded()) {
+        startFetchWeatherService();
+      }
+    });
   }
 
   /**
@@ -101,7 +109,7 @@ public class SunshineRepository {
    * Deletes old weather data because we don't need to keep multiple days' data
    */
   private void deleteOldData() {
-    // TODO Finish this method when instructed
+    mWeatherDao.deleteOldData(SunshineDateUtils.getNormalizedUtcDateForToday());
   }
 
   /**
@@ -110,8 +118,9 @@ public class SunshineRepository {
    * @return Whether a fetch is needed
    */
   private boolean isFetchNeeded() {
-    // TODO Finish this method when instructed
-    return true;
+    Date today = SunshineDateUtils.getNormalizedUtcDateForToday();
+    int count = mWeatherDao.countAllFutureWeather(today);
+    return (count < WeatherNetworkDataSource.NUM_DAYS);
   }
 
   /**
@@ -124,8 +133,6 @@ public class SunshineRepository {
 
   /**
    * リモートのデータを取得する必要があるかどうかチェックした上で、取得
-   * @param date
-   * @return
    */
   public LiveData<WeatherEntry> getWeatherByDate(Date date) {
     initializeData();
